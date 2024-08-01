@@ -11,13 +11,13 @@ require_once('./navbar.php');
 			<div class="col-lg-12">
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-title">
-						<h2>SERVICES</h2>
+						<h2>Soluções</h2>
 					</div>
 					<div class="breatcumb-content-text">
 						<ul>
-							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>SERVICES</span></li>
+							<li><a href="#">home</a> <i class="fas fa-angle-double-right"></i> <span>Soluções</span></li>
 						</ul>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</div>
@@ -35,9 +35,9 @@ require_once('./navbar.php');
 		<div class="row">
 			<div class="col-lg-6 col-md-6 col-sm-12 padding-left">
 				<div class="dreamit-section-title text-left">
-					<h5>SERVIÇOS</h5>
-					<h1>NÓS SERVIMOS A SOLUÇÃO</h1>
-					<h1>PERFEITA DE <span>TI PIXEL</span></h1>					
+					<h5>Desenvolvimento de Softwares </h5>
+					<h1> Desenvolvimento de Softwares</h1>
+					<h1>Sob <span> Medida</span></h1>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-12 padding-left">
@@ -48,8 +48,8 @@ require_once('./navbar.php');
 								<i class="flaticon-growth"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>Automação</h2>
-								<p>Soluções que automatizam processos, aumentando a produtividade.</p>
+								<h2>Soluções Personalizadas</h2>
+								<p>Softwares adaptados às suas necessidades específicas.</p>
 							</div>
 						</div>
 					</div>
@@ -63,8 +63,8 @@ require_once('./navbar.php');
 								<i class="flaticon-clock"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>Design de UI/UX</h2>
-								<p>Métodos críticos de missão em matriz colaborativa empoderados com processo centrado</p>
+								<h2>Tecnologia Avançada</h2>
+								<p>Utilizamos as ferramentas mais modernas.</p>
 							</div>
 						</div>
 					</div>
@@ -78,8 +78,8 @@ require_once('./navbar.php');
 								<i class="flaticon-pen"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>Desenvolvimento de Aplicativos</h2>
-								<p>Métodos críticos de missão em matriz colaborativa empoderados com processo centrado</p>
+								<h2>Metodologia Ágil</h2>
+								<p>Desenvolvimento flexível e adaptável.</p>
 							</div>
 						</div>
 					</div>
@@ -93,8 +93,8 @@ require_once('./navbar.php');
 								<i class="flaticon-chat"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>Design de Sites</h2>
-								<p>Métodos críticos de missão em matriz colaborativa empoderados com processo centrado</p>
+								<h2>Suporte Completo</h2>
+								<p>Assistência contínua antes e depois da entrega.</p>
 							</div>
 						</div>
 					</div>
@@ -108,14 +108,16 @@ require_once('./navbar.php');
 								<i class="flaticon-money-2"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>Marketing Digital</h2>
-								<p>Métodos críticos de missão em matriz colaborativa empoderados com processo centrado</p>
+								<h2>Experiência Intuitiva</h2>
+								<p>Interfaces fáceis e agradáveis de usar.
+
+								</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		
+
 		</div>
 	</div>
 </div>
@@ -132,9 +134,9 @@ require_once('./navbar.php');
 		<div class="row">
 			<div class="col-lg-12 col-sm-12">
 				<div class="dreamit-section-title style-three white text-center pb-3">
-					<h5>SERVICES</h5>
-					<h1>WE SERVE THE PERFECT</h1>
-					<h1>PIXEL <span>SOLUTIONS</span></h1>				
+					<h5>Soluções</h5>
+					<h1>Nossos serviços</h1>
+					<h1>Brasmid <span>Soluções</span></h1>
 				</div>
 			</div>
 		</div>
@@ -147,7 +149,7 @@ require_once('./navbar.php');
 								<i class="flaticon-brain-1"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>DIGITAL SEO CONSULTANCY</h2>
+								<h2>Desenvolvimento de Softwares</h2>
 								<p>Dramatically simplify to proof a data before high mindshare done.</p>
 							</div>
 						</div>
@@ -165,7 +167,7 @@ require_once('./navbar.php');
 								<i class="flaticon flaticon-code"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>APPS INTERFACE DESIGN</h2>
+								<h2>Desenvolvimento de Sites e Landing Pages</h2>
 								<p>Dramatically simplify to proof a data before high mindshare done.</p>
 							</div>
 						</div>
@@ -183,7 +185,7 @@ require_once('./navbar.php');
 								<i class="flaticon-pen"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>WEBSITE DEVELOPMENT</h2>
+								<h2>Hospedagem de Software, Site e E-mail</h2>
 								<p>Dramatically simplify to proof a data before high mindshare done.</p>
 							</div>
 						</div>
@@ -201,7 +203,7 @@ require_once('./navbar.php');
 								<i class="flaticon-chat"></i>
 							</div>
 							<div class="techno-service-title">
-								<h2>UI DATABASE DESIGN</h2>
+								<h2>Marketing Digital</h2>
 								<p>Dramatically simplify to proof a data before high mindshare done.</p>
 							</div>
 						</div>
@@ -228,7 +230,7 @@ require_once('./navbar.php');
 				<div class="dreamit-section-title style-four text-left pb-3">
 					<h5>SERVICES</h5>
 					<h1>YOU CAN GET THE</h1>
-					<h1>BEST ALL DESIGN</h1>	
+					<h1>BEST ALL DESIGN</h1>
 					<h1><span> SOLUTION</span></h1>
 					<p>Dramatically enable is a economically sound information deliverables is a completely impact resource-leveling the focussed leadership for a reals methodologies supported digital agency techno.</p>
 				</div>
@@ -239,12 +241,7 @@ require_once('./navbar.php');
 						<li class="nav-item">
 							<a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true"><span>FULL SATISFACTION</span></a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false"><span>EXPERT TEAM</span></a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact" aria-selected="false"><span>MISSION & VISION</span></a>
-						</li>	
+						
 					</ul>
 					<div class="tab-content" id="pills-tabContent">
 						<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
@@ -270,61 +267,11 @@ require_once('./navbar.php');
 											</ul>
 										</div>
 									</div>
-								</div>						  			
+								</div>
 							</div>
 						</div>
-						<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-							<div class="dreamit-department-tab-box">
-								<div class="row">
-									<div class="col-lg-12">
-										<div class="tab-content-text">
-											<p>We’ve combined a new kind of doctor’s experience that blends the highest level of the moment your health care with exceptional service. People can enroll membership by paying only an annual.</p>
-										</div>
-									</div>
-									<div class="col-lg-6">
-										<div class="dreamit-department-thumb">
-											<img src="assets/images/resource/feature1.png" alt="">
-										</div>
-									</div>
-									<div class="col-lg-6">
-										<div class="dreamit-department-bottom-content-inner">
-											<ul>
-												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
-												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
-												<li><i class="fas fa-check"></i><span>Quality users after Breed Applications.</span></li>
-												<li><i class="fas fa-check"></i><span>Market Positioning Expertise.</span></li>
-											</ul>
-										</div>
-									</div>
-								</div>						  			
-							</div>
-						</div>
-						<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-							<div class="dreamit-department-tab-box">
-								<div class="row">
-									<div class="col-lg-12">
-										<div class="tab-content-text">
-											<p>We’ve combined a new kind of doctor’s experience that blends the highest level of the moment your health care with exceptional service. People can enroll membership by paying only an annual.</p>
-										</div>
-									</div>
-									<div class="col-lg-6">
-										<div class="dreamit-department-thumb">
-											<img src="assets/images/resource/feature1.png" alt="">
-										</div>
-									</div>
-									<div class="col-lg-6">
-										<div class="dreamit-department-bottom-content-inner">
-											<ul>
-												<li><i class="fas fa-check"></i><span>Rather than unique Idea.</span></li>
-												<li><i class="fas fa-check"></i><span>Entums estibulum dignissim posuere</span></li>
-												<li><i class="fas fa-check"></i><span>Quality users after Breed Applications.</span></li>
-												<li><i class="fas fa-check"></i><span>Market Positioning Expertise.</span></li>
-											</ul>
-										</div>
-									</div>
-								</div>						  			
-							</div>
-						</div>
+						
+						
 					</div>
 				</div>
 			</div>
@@ -381,4 +328,5 @@ require_once('./footer.php');
 
 
 </body>
+
 </html>
