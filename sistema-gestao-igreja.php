@@ -59,12 +59,12 @@ require_once('./navbar.php');
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-content-text1">
 						<ul>
-							<li><a href="./index.php"><span>início</span> Sistemas Prontos | Loja Virtual</a></li>
+							<li><a href="./index.php"><span>início</span> Sistemas Prontos | Gestão de Igrejas</a></li>
 						</ul>
 					</div>
 					<div class="breatcumb-title1">
-						<h2>Loja Virtual</h2>
-						<p>Tudo o que você precisa para vender online.</p>
+						<h2>Gestão de Igrejas</h2>
+						<p>Tudo o que você precisa para administrar sua igreja de forma eficiente e organizada.</p>
 					</div>
 				</div>
 			</div>
@@ -84,8 +84,8 @@ require_once('./navbar.php');
 			<div class="col-lg-6 col-md-6">
 				<div class="dreamit-section-title text-left">
 
-					<h1>// Loja Virtual</h1>
-					<p>Nosso sistema pronto de loja virtual é uma solução completa para quem deseja vender online de forma eficiente e profissional. Com uma interface fácil de usar, você pode gerenciar seus produtos, aceitar diversos métodos de pagamento e garantir a segurança dos dados de seus clientes. Além disso, oferecemos suporte ao cliente dedicado e ferramentas de análise para acompanhar o desempenho de sua loja. Tudo isso com um design responsivo que se adapta a qualquer dispositivo, proporcionando uma experiência de compra excelente para seus clientes.</p>
+					<h1>// Gestão de Igrejas</h1>
+					<p>Nosso sistema pronto para Gestão de Igrejas oferece uma solução completa para gerenciar as atividades e operações da sua igreja. Com uma interface intuitiva e amigável, você pode organizar eventos, gerenciar membros, controlar doações e gerar relatórios com facilidade. O sistema inclui ferramentas para comunicação com os membros, agendamento de atividades e administração financeira, garantindo uma gestão eficaz e integrada. Além disso, com recursos avançados de segurança, seus dados estarão protegidos, e o design responsivo permite acessar o sistema de qualquer dispositivo.</p>
 				</div>
 				<div class="about-button">
 					<h5>// Gostou?</h5>
@@ -100,7 +100,7 @@ require_once('./navbar.php');
 								<img src="assets/images/resource/career1.png" alt="">
 							</div>
 							<div class="joins-titles">
-								<h3>Adicione, edite e organize <br> seus produtos com facilidade.</h3>
+								<h3>Gerencie membros e eventos  <br> com facilidade.</h3>
 							</div>
 						</div>
 						<div class="singles-joins-box">

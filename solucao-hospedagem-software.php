@@ -85,8 +85,9 @@ require_once('navbar.php'); ?>
 							</div>
 							<div class="em-service-content">
 								<div class="service-page-title">
-									<h1><a href="#">UI/UX GRAPHIC DESIGN</a></h1>
-									<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures. Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities after highs-quality metrics. Professionally fashion ethical testing proced for reliable opportunities. Dynamically whiteboard functional ROIS before proactive web services is the synthesize worldwide experiences with customer directed markets. Uniquely pursue effective process rather than optimal partnerships. Energistically.</p>
+									<h1><a href="#">HOSPEDAGEM DE SOFTWARE, SITE E E-MAIL
+										</a></h1>
+									<p>Garantimos uma hospedagem robusta e confiável para software, sites e e-mails, aproveitando a mais alta tecnologia e práticas avançadas para oferecer desempenho superior e segurança de ponta. Nossa solução de hospedagem é projetada para suportar operações críticas e garantir que sua presença online funcione de maneira contínua e eficiente.</p>
 								</div>
 							</div>
 						</div>
@@ -97,8 +98,8 @@ require_once('navbar.php'); ?>
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>Why Techno</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
+								<h4>Por que Brasmid</h4>
+								<p>Tecnologia avançada para máxima velocidade e segurança. Serviços otimizados para eficiência e estabilidade.</p>
 							</div>
 						</div>
 					</div>
@@ -108,8 +109,8 @@ require_once('navbar.php'); ?>
 								<i class="flaticon-support-6"></i>
 							</div>
 							<div class="service-details-title">
-								<h4>24/7 SUPPORT</h4>
-								<p>Phosfluorescently pontificates fully researched it.</p>
+								<h4>SUPORTE CONTÍNUO</h4>
+								<p>Suporte 24/7 para resolver problemas rapidamente. Com a garantia de operação contínua.</p>
 							</div>
 						</div>
 					</div>
@@ -121,22 +122,23 @@ require_once('navbar.php'); ?>
 					<div class="col-lg-6">
 						<div class="service-details-icon-box">
 							<div class="service-details-icon-title">
-								<h3>WE SERVE THE BEST WORK</h3>
-								<p>Dramatically monetize revolutionary collaboration and idea-sharing through accurate platforms the nectally syndicate high</p>
+								<h3>RESULTADOS EXCEPCIONAIS</h3>
+								<p>Nossa hospedagem é projetada para oferecer resultados que superam suas expectativas. Com tecnologia avançada e práticas eficientes, garantimos que seu software, site e e-mail sejam hospedados com alta performance e segurança, proporcionando uma experiência fluida e confiável.</p>
 							</div>
 						</div>
 						<div class="widget-service-details-icon">
-							<p><i class="fas fa-check"></i> <span>Rather than unique Idea.</span></p>
-							<p><i class="fas fa-check"></i> <span>Entums estibulum dignissim posuere</span></p>
-							<p><i class="fas fa-check"></i> <span>Quality users after Breed Applications.</span></p>
+							<p><i class="fas fa-check"></i> <span>Infraestrutura Avançada.</span></p>
+							<p><i class="fas fa-check"></i> <span>Segurança Robusta</span></p>
+							<p><i class="fas fa-check"></i> <span>Integração Total.</span></p>
+							<p><i class="fas fa-check"></i> <span>Gestão Eficiente.</span></p>
 						</div>
 					</div>
 					<div class="col-lg-12 col-sm-12">
 						<div class="widget-details-text pt-25 pb-3">
-							<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures. Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities.</p>
+							<p>Estamos na vanguarda da tecnologia de hospedagem para garantir que sua solução permaneça atual e eficaz. </p>
 						</div>
 						<div class="widget-details-text2">
-							<p>Authoritatively disintermediate reliable niche markets after plug-and-play infrastructures.That product Professiona maximize real-time outsourcing whereas open-source intellectual capital. Monotonectally procrastina process-centric communities after highs-quality metrics of fetures Professionally fashion ethical testing proced for reliable opportunities. Dynamically whiteboard functional ROIS before proactive web services is the synthesize worldwide experiences with of customer directed markets. Uniquely pursue effective process rather than optimal partnerships. Energistically.</p>
+							<p>Incorporamos as mais recentes inovações para oferecer um serviço de hospedagem flexível e adaptável, que se ajusta às novas demandas e oportunidades do mercado, assegurando que sua presença online permaneça sólida e relevante.</p>
 						</div>
 					</div>
 				</div>

@@ -59,12 +59,12 @@ require_once('./navbar.php');
 				<div class="breatcumb-content text-center">
 					<div class="breatcumb-content-text1">
 						<ul>
-							<li><a href="./index.php"><span>início</span> Sistemas Prontos | Loja Virtual</a></li>
+							<li><a href="./index.php"><span>início</span> Sistemas Prontos | Gestão de Projetos</a></li>
 						</ul>
 					</div>
 					<div class="breatcumb-title1">
-						<h2>Loja Virtual</h2>
-						<p>Tudo o que você precisa para vender online.</p>
+						<h2>Gestão de Projetos</h2>
+						<p>Tudo o que você precisa para gerenciar seus projetos de forma eficiente e colaborativa.</p>
 					</div>
 				</div>
 			</div>
@@ -84,8 +84,8 @@ require_once('./navbar.php');
 			<div class="col-lg-6 col-md-6">
 				<div class="dreamit-section-title text-left">
 
-					<h1>// Loja Virtual</h1>
-					<p>Nosso sistema pronto de loja virtual é uma solução completa para quem deseja vender online de forma eficiente e profissional. Com uma interface fácil de usar, você pode gerenciar seus produtos, aceitar diversos métodos de pagamento e garantir a segurança dos dados de seus clientes. Além disso, oferecemos suporte ao cliente dedicado e ferramentas de análise para acompanhar o desempenho de sua loja. Tudo isso com um design responsivo que se adapta a qualquer dispositivo, proporcionando uma experiência de compra excelente para seus clientes.</p>
+					<h1>// Gestão de Projetos</h1>
+					<p>Nosso sistema pronto para Gestão de Projetos oferece uma solução robusta para coordenar e otimizar todos os aspectos dos seus projetos. Com uma interface intuitiva e amigável, você pode criar e gerenciar tarefas, definir prazos, atribuir responsabilidades e acompanhar o progresso com facilidade. O sistema inclui ferramentas para planejamento, colaboração em equipe e análise de desempenho, garantindo que seus projetos sejam concluídos com sucesso e no prazo. Além disso, com recursos avançados de segurança e um design responsivo, você acessa e gerencia seus projetos de qualquer dispositivo.</p>
 				</div>
 				<div class="about-button">
 					<h5>// Gostou?</h5>
@@ -100,7 +100,7 @@ require_once('./navbar.php');
 								<img src="assets/images/resource/career1.png" alt="">
 							</div>
 							<div class="joins-titles">
-								<h3>Adicione, edite e organize <br> seus produtos com facilidade.</h3>
+								<h3>Gerencie tarefas e prazos com  <br> eficiência.</h3>
 							</div>
 						</div>
 						<div class="singles-joins-box">
