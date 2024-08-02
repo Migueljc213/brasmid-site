@@ -127,9 +127,15 @@ require_once('./navbar.php');
                     <div class="details-thumb">
                         <img src="assets/images/resource/c7.png" alt="">
                         <div class="deta-title">
-                            <span></span>
-                            <h5>Weekly 5 Days</h5>
-                            <h5>Weekend : Sat, Sun</h5>
+                            <span>Contato</span>
+                            <h5>+55 (24) 99941-7827</h5>
+                        </div>
+                    </div>
+                    <div class="details-thumb">
+                        <img src="assets/images/resource/c7.png" alt="">
+                        <div class="deta-title">
+                            <span>Email</span>
+                            <h5>contato@brasmid.com.br</h5>
                         </div>
                     </div>
              

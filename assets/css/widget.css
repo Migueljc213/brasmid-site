@@ -184,8 +184,8 @@
     list-style: none;
     margin-bottom: 10px;
     background: #fff;
-    height: 58px;
-    padding: 16px 20px 0 30px;
+    height: auto;
+    padding: 16px 10px 10px 30px;
     border-left: 3px solid transparent;
     border-radius: 5px;
     transition: .5s;

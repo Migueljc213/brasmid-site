@@ -154,7 +154,7 @@ require_once('./navbar.php');
 							</div>
 						</div>
 						<div class="service-button2">
-							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
+							<a href="./solucao-desenvolvimento-softwares.php">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
 						</div>
 					</div>
 				</div>
@@ -172,7 +172,7 @@ require_once('./navbar.php');
 							</div>
 						</div>
 						<div class="service-button2">
-							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
+							<a href="./solucao-desenvolvimento-site.php">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
 						</div>
 					</div>
 				</div>
@@ -190,7 +190,7 @@ require_once('./navbar.php');
 							</div>
 						</div>
 						<div class="service-button2">
-							<a href="#">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
+							<a href="./solucao-hospedagem-software.php">READ MORE <span><i class="fas fa-angle-double-right"></i></span></a>
 						</div>
 					</div>
 				</div>

@@ -79,21 +79,21 @@
 									<li><a href="./mission-&-vission.php">Missão e Valor</a></li>
 								</ul>
 							</li>
-							<li><a href="#solucoes">Soluções <span><i class="fas fa-angle-down"></i></span></a>
+							<li><a href="./solucao.php">Soluções <span><i class="fas fa-angle-down"></i></span></a>
 								<ul class="sub-menu">
-									<li><a href="./servicos.php">Desenvolvimento de Softwares</a></li>
-									<li><a href="#">Desenvolvimento de Sites e Landing Pages</a></li>
-									<li><a href="#">Hospedagem de Software, Site e E-mail</a></li>
+									<li><a href="./solucao-desenvolvimento-softwares.php">Desenvolvimento de Softwares</a></li>
+									<li><a href="./solucao-desenvolvimento-site.php">Desenvolvimento de Sites e Landing Pages</a></li>
+									<li><a href="./solucao-hospedagem-software.php">Hospedagem de Software, Site e E-mail</a></li>
 								</ul>
 							</li>
 							<li><a href="./todos-sistemas.php">Sistemas Prontos <span><i class="fas fa-angle-down"></i></span></a>
 								<ul class="sub-menu">
 									<!-- <li><a href="">Empresarial - ERP</a></li> -->
 									<li><a href="./sistema-loja-virtual.php">Loja Virtual</a></li>
-									<li><a href="#">Ensino - EAD</a></li>
-									<li><a href="#">Gestão de Clínicas</a></li>
-									<li><a href="#">Gestão de Igrejas</a></li>
-									<li><a href="#">Gestão de Projetos</a></li>
+									<li><a href="./sistema-ensino-ead.php">Ensino - EAD</a></li>
+									<li><a href="./sistema-gestao-clinica.php">Gestão de Clínicas</a></li>
+									<li><a href="./sistema-gestao-igreja.php">Gestão de Igrejas</a></li>
+									<li><a href="./sistema-gestao-projeto.php">Gestão de Projetos</a></li>
 								</ul>
 							</li>
 
