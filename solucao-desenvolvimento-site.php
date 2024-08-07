@@ -153,7 +153,7 @@ require_once('navbar.php'); ?>
 							<li><a href="./solucao-desenvolvimento-softwares.php">Desenvolvimento de <br>Softwares <i class="fas fa-angle-right"></i></a></li>
 							<li><a href="./solucao-desenvolvimento-site.php">Desenvolvimento de Sites e Landing Pages<i class="fas fa-angle-right"></i></a></li>
 							<li><a href="./solucao-hospedagem-software.php">Hospedagem de Software,<br> Site e E-mail <i class="fas fa-angle-right"></i></a></li>
-							<li><a href="digital-marketing.html">Marketing Digital <i class="fas fa-angle-right"></i></a></li>
+							
 						</ul>
 					</div>
 				</div>
@@ -172,7 +172,7 @@ require_once('navbar.php'); ?>
 								<p>Ou acesse o formulário de contato</p>
 							</div>
 							<div class="widget-button">
-								<a href="./contact.php">Vamos Começar Agora!</a>
+								<a href="./contato.php">Vamos Começar Agora!</a>
 								<span><i class="fas fa-link"></i></span>
 							</div>
 						</div>

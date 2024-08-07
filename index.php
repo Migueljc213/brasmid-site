@@ -1,6 +1,11 @@
 <?php
 require_once('./navbar.php');
 
+if ($_GET) {
+    $url = explode('/', $_GET['url']);
+
+    require_once './'.$url[0].'.php';
+}
 ?>
 <!--==================================================-->
 <!-- Start slider Area -->
@@ -379,8 +384,44 @@ require_once('./navbar.php');
                         </div>
                         <div class="single_portfolio_content-4">
                             <div class="single-portfolio-content-inner-4">
-                                <h3><a href="https://www.ferramarrj.com.br/">Ferramar</a></h3>
-                                <p>Site Institucional <br> Desenvolvimento de Site Personalizado </p>
+                                <h3><a href="https://www.ferramarrj.com.br/">Gestão de Igrejas - PGA</a></h3>
+                                <p>Site Institucional <br> 6º Região da Igreja Metodista </p>
+                                <div class="portfolio-icon-4">
+                                    <a href="https://www.ferramarrj.com.br/"><i class="fas fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="single_portfolio_box">
+                    <div class="single_portfolio_inner">
+                        <div class="single_portfolio_thumb">
+                            <img src="assets/images/resource/riaam.jpg" alt="Site Ferramar" />
+                        </div>
+                        <div class="single_portfolio_content-4">
+                            <div class="single-portfolio-content-inner-4">
+                                <h3><a href="https://www.ferramarrj.com.br/">Riaam Brasil</a></h3>
+                                <p>Site Institucional <br>  Desenvolvimento de Site Personalizado </p>
+                                <div class="portfolio-icon-4">
+                                    <a href="https://www.ferramarrj.com.br/"><i class="fas fa-angle-double-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="single_portfolio_box">
+                    <div class="single_portfolio_inner">
+                        <div class="single_portfolio_thumb">
+                            <img src="assets/images/resource/siteferramar.webp" alt="Site Ferramar" />
+                        </div>
+                        <div class="single_portfolio_content-4">
+                            <div class="single-portfolio-content-inner-4">
+                                <h3><a href="https://www.ferramarrj.com.br/">Ferramar </a></h3>
+                                <p>Site Institucional <br>  Desenvolvimento de Site Personalizado </p>
                                 <div class="portfolio-icon-4">
                                     <a href="https://www.ferramarrj.com.br/"><i class="fas fa-angle-double-right"></i></a>
                                 </div>
@@ -435,46 +476,7 @@ require_once('./footer.php')
 <!--==================================================-->
 
 
-<!-- jquery js -->
-<script src="./assets/js/vendor/jquery-3.2.1.min.js"></script>
-<!-- bootstrap js -->
-<script src="./assets/js/bootstrap.min.js"></script>
-<!-- carousel js -->
-<script src="./assets/js/owl.carousel.min.js"></script>
-<!-- counterup js -->
-<script src="./assets/js/jquery.counterup.min.js"></script>
-<!-- waypoints js -->
-<script src="./assets/js/waypoints.min.js"></script>
-<!-- wow js -->
-<script src="./assets/js/wow.js"></script>
-<!-- imagesloaded js -->
-<script src="./assets/js/imagesloaded.pkgd.min.js"></script>
-<!-- venobox js -->
-<script src="venobox/venobox.js"></script>
-<!-- ajax mail js -->
-<script src="./assets/js/ajax-mail.js"></script>
-<!--  animated-text js -->
-<script src="./assets/js/animated-text.js"></script>
-<!-- venobox min js -->
-<script src="venobox/venobox.min.js"></script>
-<!-- isotope js -->
-<script src="./assets/js/isotope.pkgd.min.js"></script>
-<!-- jquery nivo slider pack js -->
-<script src="./assets/js/jquery.nivo.slider.pack.js"></script>
-<!-- jquery meanmenu js -->
-<script src="./assets/js/jquery.meanmenu.js"></script>
-<script src="./assets/js/popper.min.js"></script>
-<!-- jquery scrollup js -->
-<script src="./assets/js/jquery.scrollUp.js"></script>
-<!-- slick js -->
-<script src="./assets/js/theme.js"></script>
-<!-- slick js -->
-<script src="./assets/js/slick.js"></script>
-<!-- slick js -->
-<script src="./assets/js/slick.min.js"></script>
-<!-- jquery js -->
-<script src="./assets/js/jquery.barfiller.js"></script>
-<!-- jquery js -->
+
 <script>
     $(document).ready(function() {
         $('#bar1').barfiller({

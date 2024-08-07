@@ -43,10 +43,9 @@
 				<div class="footer-recent-post">
 					<ul class="menu">
 						<li><a href="#">Empresarial - ERP</a></li>
-						<li><a href="#">Loja Virtual</a></li>
-						<li><a href="#">Ensino - EAD</a></li>
+						<li><a href="">Loja Virtual</a></li>
+						<li><a href="">Ensino - EAD</a></li>
 						<li><a href="#">Gestão de Clínicas</a></li>
-						<li><a href="#">Gestão de Projetos</a></li>
 						<li><a href="#">Gestão de Igrejas</a></li>
 					</ul>
 				</div>

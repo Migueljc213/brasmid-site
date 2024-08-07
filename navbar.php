@@ -62,10 +62,10 @@
 			<div class="row align-items-center">
 				<div class="col-lg-3">
 					<div class="logo">
-						<a class="logo_img" href="./index.php" title="brasmid">
+						<a class="logo_img" href="./index" title="brasmid">
 							<img src="./assets/images/logo.png" alt="" />
 						</a>
-						<a class="main_sticky" href="./index.php" title="brasmid">
+						<a class="main_sticky" href="./index" title="brasmid">
 							<img src="./assets/images/logo.png" alt="astute" />
 						</a>
 					</div>
@@ -73,45 +73,33 @@
 				<div class="col-lg-9">
 					<nav class="techno_menu text-left">
 						<ul class="nav_scroll">
-							<li><a href="#aempresa">A Empresa <span><i class="fas fa-angle-down"></i></span></a>
+							<li><a href="#">A Empresa <span><i class="fas fa-angle-down"></i></span></a>
 								<ul class="sub-menu">
-									<li><a href="./sobre-nos.php">História</a></li>
-									<li><a href="./mission-&-vission.php">Missão e Valor</a></li>
+									<li><a href="./sobre-nos">História</a></li>
+									<li><a href="./missa0-visao">Missão e Valor</a></li>
 								</ul>
 							</li>
-							<li><a href="./solucao.php">Soluções <span><i class="fas fa-angle-down"></i></span></a>
+							<li><a href="#">Soluções <span><i class="fas fa-angle-down"></i></span></a>
 								<ul class="sub-menu">
-									<li><a href="./solucao-desenvolvimento-softwares.php">Desenvolvimento de Softwares</a></li>
-									<li><a href="./solucao-desenvolvimento-site.php">Desenvolvimento de Sites e Landing Pages</a></li>
-									<li><a href="./solucao-hospedagem-software.php">Hospedagem de Software, Site e E-mail</a></li>
+									<li><a href="./solucao-desenvolvimento-softwares">Desenvolvimento de Softwares</a></li>
+									<li><a href="./solucao-desenvolvimento-site">Desenvolvimento de Sites e Landing Pages</a></li>
+									<li><a href="./solucao-hospedagem-software">Hospedagem de Software, Site e E-mail</a></li>
 								</ul>
 							</li>
-							<li><a href="./todos-sistemas.php">Sistemas Prontos <span><i class="fas fa-angle-down"></i></span></a>
-								<ul class="sub-menu">
-									<!-- <li><a href="">Empresarial - ERP</a></li> -->
-									<li><a href="./sistema-loja-virtual.php">Loja Virtual</a></li>
-									<li><a href="./sistema-ensino-ead.php">Ensino - EAD</a></li>
-									<li><a href="./sistema-gestao-clinica.php">Gestão de Clínicas</a></li>
-									<li><a href="./sistema-gestao-igreja.php">Gestão de Igrejas</a></li>
-									<li><a href="./sistema-gestao-projeto.php">Gestão de Projetos</a></li>
-								</ul>
-							</li>
-
+			
 							<li><a href="#marketing">Marketing Digital <span><i class="fas fa-angle-down"></i></span></a>
 								<ul class="sub-menu">
-									<li><a href="#">Tráfego Pago</a></li>
-									<li><a href="#">Mídia Social</a></li>
-									<li><a href="#">Automações</a></li>
-									<li><a href="#">Lançamentos de Produtos</a></li>
+									<li><a href="./trafego-pago">Tráfego Pago</a></li>
+									<li><a href="./midia-social">Mídia Social</a></li>
 								</ul>
 							</li>
-							<li><a href="./contact.php">Contato</a></li>
+							<li><a href="./contato">Contato</a></li>
 						</ul>
 						<div class="header-button">
 							<i class="flaticon-phone-call"></i>
 						</div>
 						<div class="slider-button-text">
-							<p>Fale Conosco!</p>
+							<p><a href="https://viewer.nixs.com.br/brasmid-tecnologia">Fale Conosco!</a></p>
 							<h2>(24) 999417827</h2>
 							
 						</div>
@@ -129,37 +117,25 @@
 
 					<li><a href="#aempresa">A Empresa <span><i class="fas fa-angle-down"></i></span></a>
 						<ul class="sub-menu">
-							<li><a href="#">História</a></li>
-							<li><a href="#">Missão e Valor</a></li>
+							<li><a href="./sobre-nos">História</a></li>
+							<li><a href="./missao-visao">Missão e Valor</a></li>
 						</ul>
 					</li>
 					<li><a href="#solucoes">Soluções <span><i class="fas fa-angle-down"></i></span></a>
 						<ul class="sub-menu">
-							<li><a href="#">Desenvolvimento de Softwares</a></li>
-							<li><a href="#">Desenvolvimento de Sites e Landing Pages</a></li>
-							<li><a href="#">Hospedagem de Software, Site e E-mail</a></li>
-						</ul>
-					</li>
-					<li><a href="./todos-projetos.php">Sistemas Prontos <span><i class="fas fa-angle-down"></i></span></a>
-						<ul class="sub-menu">
-							<li><a href="#">Empresarial - ERP</a></li>
-							<li><a href="#">Loja Virtual</a></li>
-							<li><a href="#">Ensino - EAD</a></li>
-							<li><a href="#">Gestão de Clínicas</a></li>
-							<li><a href="#">Gestão de Igrejas</a></li>
-							<li><a href="#">Gestão de Projetos</a></li>
+							<li><a href="./solucao-desenvolvimento-softwares">Desenvolvimento de Softwares</a></li>
+							<li><a href="./solucao-desenvolvimento-site">Desenvolvimento de Sites e Landing Pages</a></li>
+							<li><a href="./solucao-hospedagem-software">Hospedagem de Software, Site e E-mail</a></li>
 						</ul>
 					</li>
 
 					<li><a href="#marketing">Marketing Digital <span><i class="fas fa-angle-down"></i></span></a>
 						<ul class="sub-menu">
-							<li><a href="#">Tráfego Pago</a></li>
-							<li><a href="#">Mídia Social</a></li>
-							<li><a href="#">Automações</a></li>
-							<li><a href="#">Lançamentos de Produtos</a></li>
+							<li><a href="./trafego-pago">Tráfego Pago</a></li>
+							<li><a href="./midia-social">Mídia Social</a></li>
 						</ul>
 					</li>
-					<li><a href="#">Contato</a></li>
+					<li><a href="./contato">Contato</a></li>
 
 				</ul>
 			</nav>

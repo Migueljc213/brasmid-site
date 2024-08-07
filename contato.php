@@ -130,7 +130,7 @@ require_once('./navbar.php');
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="contact-form-box style-two">
-                            <form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
+                            <form action="./enviar-email.php" method="POST" id="dreamit-form">
                                 <h4>Para quaisquer dúvidas relacionadas aos meus Programas de Varejo e Liderança</h4>
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6 col-sm-12">
@@ -138,7 +138,7 @@ require_once('./navbar.php');
                                             <p>Nome*</p>
                                         </div>
                                         <div class="from-box">
-                                            <input type="text" name="name" placeholder="Seu Nome*" required>
+                                            <input type="text" name="nome" placeholder="Seu Nome*" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-12">
@@ -146,7 +146,7 @@ require_once('./navbar.php');
                                             <p>Email*</p>
                                         </div>
                                         <div class="from-box">
-                                            <input type="text" name="mail" placeholder="Seu Email*" required>
+                                            <input type="text" name="email" placeholder="Seu Email*" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-12">
@@ -154,7 +154,7 @@ require_once('./navbar.php');
                                             <p>Celular*</p>
                                         </div>
                                         <div class="from-box">
-                                            <input type="text" name="phone" placeholder="Seu Celular*" required>
+                                            <input type="text" name="telefone" placeholder="Seu Celular*" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-12">
@@ -164,19 +164,12 @@ require_once('./navbar.php');
                                         <div class="from-box">
                                             <select name="Select-Service" id="Select-Service" required>
                                                 <option value="#solucoes">Selecitone o Serviço</option>
-                                                <option value="#">Desenvolvimento de Softwares</option>
-                                                <option value="#">Desenvolvimento de Sites e Landing Pages</option>
-                                                <option value="#">Hospedagem de Software, Site e E-mail</option>
-                                                <option value="#">Empresarial - ERP</option>
-                                                <option value="#">Loja Virtual</option>
-                                                <option value="#">Ensino - EAD</option>
-                                                <option value="#">Gestão de Clínicas</option>
-                                                <option value="#">Gestão de Igrejas</option>
-                                                <option value="#">Gestão de Projetos</option>
-                                                <option value="#">Tráfego Pago</option>
+                                                <option value="Desenvolvimento de Softwares">Desenvolvimento de Softwares</option>
+                                                <option value="Desenvolvimento de Sites e Landing Pages">Desenvolvimento de Sites e Landing Pages</option>
+                                                <option value="Hospedagem de Software, Site e E-mail">Hospedagem de Software, Site e E-mail</option>
+                                                <option value="">Tráfego Pago</option>
                                                 <option value="#">Mídia Social</option>
-                                                <option value="#">Automações</option>
-                                                <option value="#">Lançamentos de Produtos</option>
+                                        
                                             </select>
                                         </div>
                                     </div>
@@ -185,7 +178,7 @@ require_once('./navbar.php');
                                             <p>Sua Mensagem</p>
                                         </div>
                                         <div class="from-box">
-                                            <textarea name="massage" id="massage" placeholder="Mensagem*"></textarea>
+                                            <textarea name="mensagem" id="mensagem" placeholder="Mensagem*"></textarea>
                                         </div>
                                     </div>
                                 </div>
@@ -209,47 +202,6 @@ require_once('./navbar.php');
 require_once('./footer.php')
 ?>
 
-	<!-- jquery js -->	
-	<script src="assets/js/vendor/jquery-3.2.1.min.js"></script>
-	<!-- bootstrap js -->	
-	<script src="assets/js/bootstrap.min.js"></script>
-	<!-- carousel js -->
-	<script src="assets/js/owl.carousel.min.js"></script>
-	<!-- counterup js -->
-	<script src="assets/js/jquery.counterup.min.js"></script>
-	<!-- waypoints js -->
-	<script src="assets/js/waypoints.min.js"></script>
-	<!-- wow js -->
-	<script src="assets/js/wow.js"></script>
-	<!-- imagesloaded js -->
-	<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-	<!-- venobox js -->
-	<script src="venobox/venobox.js"></script>
-	<!-- ajax mail js -->
-	<script src="assets/js/ajax-mail.js"></script>
-	<!--  animated-text js -->	
-	<script src="assets/js/animated-text.js"></script>
-	<!-- venobox min js -->
-	<script src="venobox/venobox.min.js"></script>
-	<!-- isotope js -->
-	<script src="assets/js/isotope.pkgd.min.js"></script>
-	<!-- jquery nivo slider pack js -->
-	<script src="assets/js/jquery.nivo.slider.pack.js"></script>
-	<!-- jquery meanmenu js -->	
-	<script src="assets/js/jquery.meanmenu.js"></script>
-	<script src="assets/js/popper.min.js"></script>
-	<!-- jquery scrollup js -->	
-	<script src="assets/js/jquery.scrollUp.js"></script>
-	<!-- slick js -->	
-	<script src="assets/js/theme.js"></script>
-	<!-- slick js -->
-	<script src="assets/js/slick.js"></script>
-	<!-- slick js -->
-	<script src="assets/js/slick.min.js"></script>
-	<!-- jquery js -->
-	<script src="assets/js/jquery.barfiller.js"></script>
-	<!-- jquery js -->	
 
-    </script>
 </body>
 </html>

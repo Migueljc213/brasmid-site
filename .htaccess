@@ -1,0 +1,15 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [NC,L]
+
+
+RewriteRule ^contato(.*)$ contato.php [L]
+RewriteRule ^index(.*)$ index.php [L]
+RewriteRule ^midia-social(.*)$ midia-social.php [L]
+RewriteRule ^missao-visao(.*)$ missao-visao.php [L]
+RewriteRule ^sobre-nos(.*)$ sobre-nos.php [L]
+RewriteRule ^solucao-desenvolvimento-site(.*)$ solucao-desenvolvimento-site.php [L]
+RewriteRule ^solucao-desenvolvimento-softwares(.*)$ solucao-desenvolvimento-softwares.php [L]
+RewriteRule ^solucao-hospedagem-software(.*)$ solucao-hospedagem-software.php [L]
+RewriteRule ^trafego-pago(.*)$ trafego-pago.php [L]

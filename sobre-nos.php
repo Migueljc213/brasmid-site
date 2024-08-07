@@ -61,7 +61,7 @@ require_once('./navbar.php');
                         </ul>
                     </div>
                     <div class="breatcumb-title1">
-                        <h2>Sobre-nos</h2>
+                        <h2>Sobre Nós</h2>
                         <p>Um pouco sobre a história de como chegamos tão longe</p>
                     </div>
                 </div>
@@ -83,13 +83,13 @@ require_once('./navbar.php');
                 <div class="single-details-box">
                     <div class="details-title">
                         <h2>Nossa Jornada de Sucesso</h2>
-                       
+
                         <p>Desde a nossa fundação, a Brasmid tem se destacado com 320+ projetos finalizados e 300+ clientes satisfeitos, sempre comprometida com a inovação e a excelência. </p>
                     </div>
 
                     <div class="details-text">
                         <h3>Quem somos nós?</h3>
-                   
+
                         <p>A Brasmid é uma agência dedicada ao desenvolvimento de software e criação de sites, com uma trajetória marcada por excelência e inovação. Desde sua fundação, a Brasmid se destacou no mercado, conquistando um número significativo de clientes e entregando projetos de alta qualidade.
 
                             Ao longo dos anos, acumulamos uma base de 300+ clientes satisfeitos, cada um deles testemunhando nosso compromisso com a excelência e a dedicação ao atendimento personalizado. Nossa missão sempre foi transformar as ideias de nossos clientes em soluções digitais eficazes e inovadoras, e nosso sucesso é refletido na confiança que nossos clientes depositam em nós.
@@ -102,14 +102,12 @@ require_once('./navbar.php');
 
                             Venha fazer parte da nossa história de sucesso e descubra como podemos transformar suas ideias em realidade./p>
                     </div>
-           
+
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="singles-details-box">
-                    <div class="details-title">
-                        <h4>Job Summary:</h4>
-                    </div>
+                 
                     <div class="details-thumb">
                         <img src="assets/images/resource/job7.png" alt="">
                         <div class="deta-title">
@@ -138,7 +136,7 @@ require_once('./navbar.php');
                             <h5>contato@brasmid.com.br</h5>
                         </div>
                     </div>
-             
+
                 </div>
             </div>
         </div>
@@ -186,15 +184,16 @@ require_once('./footer.php');
 <!-- Start Search Popup Area -->
 <!--==================================================-->
 
-
-$(document).ready(function() {
-$('#bar3').barfiller({
-duration: 7000
-});
-$('#bar4').barfiller({
-duration: 7000
-});
-});
+<script>
+    
+    $(document).ready(function() {
+        $('#bar3').barfiller({
+            duration: 7000
+        });
+        $('#bar4').barfiller({
+            duration: 7000
+        });
+    });
 </script>
 <!--faq jquery-->
 
