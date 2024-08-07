@@ -100,7 +100,7 @@ require_once('./navbar.php');
 
                             Na Brasmid, acreditamos que o sucesso de nossos clientes é o nosso sucesso. Com uma equipe talentosa e dedicada, continuamos a inovar e crescer, mantendo-nos na vanguarda das tecnologias digitais e oferecendo soluções que realmente fazem a diferença.
 
-                            Venha fazer parte da nossa história de sucesso e descubra como podemos transformar suas ideias em realidade./p>
+                            Venha fazer parte da nossa história de sucesso e descubra como podemos transformar suas ideias em realidade.</p>
                     </div>
 
                 </div>
