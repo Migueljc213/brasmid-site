@@ -3,8 +3,11 @@ require_once('./navbar.php');
 
 if ($_GET) {
     $url = explode('/', $_GET['url']);
-
-    require_once './'.$url[0].'.php';
+    if ('./' . $url[0] . '.php') {
+        require_once './' . $url[0] . '.php';
+    }else{
+        require_once './index.php';
+    }
 }
 ?>
 <!--==================================================-->
@@ -403,7 +406,7 @@ if ($_GET) {
                         <div class="single_portfolio_content-4">
                             <div class="single-portfolio-content-inner-4">
                                 <h3><a href="https://www.ferramarrj.com.br/">Riaam Brasil</a></h3>
-                                <p>Site Institucional <br>  Desenvolvimento de Site Personalizado </p>
+                                <p>Site Institucional <br> Desenvolvimento de Site Personalizado </p>
                                 <div class="portfolio-icon-4">
                                     <a href="https://www.ferramarrj.com.br/"><i class="fas fa-angle-double-right"></i></a>
                                 </div>
@@ -421,7 +424,7 @@ if ($_GET) {
                         <div class="single_portfolio_content-4">
                             <div class="single-portfolio-content-inner-4">
                                 <h3><a href="https://www.ferramarrj.com.br/">Ferramar </a></h3>
-                                <p>Site Institucional <br>  Desenvolvimento de Site Personalizado </p>
+                                <p>Site Institucional <br> Desenvolvimento de Site Personalizado </p>
                                 <div class="portfolio-icon-4">
                                     <a href="https://www.ferramarrj.com.br/"><i class="fas fa-angle-double-right"></i></a>
                                 </div>

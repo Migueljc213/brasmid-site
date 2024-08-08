@@ -76,7 +76,7 @@
 							<li><a href="#">A Empresa <span><i class="fas fa-angle-down"></i></span></a>
 								<ul class="sub-menu">
 									<li><a href="./sobre-nos">História</a></li>
-									<li><a href="./missa0-visao">Missão e Valor</a></li>
+									<li><a href="./missao-visao">Missão e Valor</a></li>
 								</ul>
 							</li>
 							<li><a href="#">Soluções <span><i class="fas fa-angle-down"></i></span></a>
