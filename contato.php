@@ -163,7 +163,7 @@ require_once('./navbar.php');
                                         </div>
                                         <div class="from-box">
                                             <select name="Select-Service" id="Select-Service" required>
-                                                <option value="#solucoes">Selecitone o Serviço</option>
+                                                <option value="#solucoes">Selecione o Serviço</option>
                                                 <option value="Desenvolvimento de Softwares">Desenvolvimento de Softwares</option>
                                                 <option value="Desenvolvimento de Sites e Landing Pages">Desenvolvimento de Sites e Landing Pages</option>
                                                 <option value="Hospedagem de Software, Site e E-mail">Hospedagem de Software, Site e E-mail</option>
